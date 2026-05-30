@@ -67,8 +67,10 @@ s.close()
 print('connection closed')
 ```
 ## OUPUT
-![image](http://github.com/VGSAIRAIMA/3c.FILE_TRANSFER_USING_TCP_SOCKETS/blob/main/Screenshot%202026-05-30%20224808.png)
+![image](https://github.com/VGSAIRAIMA/3c.FILE_TRANSFER_USING_TCP_SOCKETS/blob/main/Screenshot%202026-05-30%20224808.png)
+
 ![image](https://github.com/VGSAIRAIMA/3c.FILE_TRANSFER_USING_TCP_SOCKETS/blob/main/Screenshot%202026-05-30%20224831.png)
+
 ## RESULT
 Thus, the python program for creating File Transfer using TCP Sockets Links was 
 successfully created and executed.
