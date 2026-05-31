@@ -67,9 +67,9 @@ s.close()
 print('connection closed')
 ```
 ## OUPUT
-![image](https://github.com/VGSAIRAIMA/3c.FILE_TRANSFER_USING_TCP_SOCKETS/blob/main/Screenshot%202026-05-30%20224808.png)
+![image](https://github.com/VGSAIRAIMA/3c.FILE_TRANSFER_USING_TCP_SOCKETS/blob/main/Screenshot%202026-05-31%20160955.png)
 
-![image](https://github.com/VGSAIRAIMA/3c.FILE_TRANSFER_USING_TCP_SOCKETS/blob/main/Screenshot%202026-05-30%20224831.png)
+![image](https://github.com/VGSAIRAIMA/3c.FILE_TRANSFER_USING_TCP_SOCKETS/blob/main/Screenshot%202026-05-31%20161013.png)
 
 ## RESULT
 Thus, the python program for creating File Transfer using TCP Sockets Links was 
